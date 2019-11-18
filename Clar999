@@ -1,0 +1,8 @@
+Link (URL) zu einem mir gehörenden *öffentlichen* (werde darauf zugreifen)
+   Repository auf github.com,  das folgende Anforderungen erfüllt:
+   - ist origin von eigenem lokalen Repository
+     (Abgabestand aktuell, nach jedem Commit und jedem Merge synchronisiert)
+   - enthält mehrere Commits in mindestens zwei Zweigen 
+     (außerhalb von master / production / develop)
+   - beide Zweige werden jeweils wieder mit dem master zusammengeführt
+   - mehrere Commits in neuem dritten Zweig, zusammengeführt in master über rebase.
